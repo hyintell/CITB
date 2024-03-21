@@ -87,7 +87,7 @@ bash score_scripts/{xxx}.sh
 
 
 > [!NOTE]  
-> In the experiments, we used T5 as the base LM; you may choose other models from HuggingFace (such as instruction-finetuned models); however, you may need to change the CL code accordingly.
+> In the experiments, we used T5 as the base LM; you may choose other (larger) models from [HuggingFace](https://huggingface.co/models) (such as instruction-finetuned models) if you have enough computing resources; however, you may need to change the CL code accordingly.
 
 
 
