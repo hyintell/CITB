@@ -1,0 +1,56 @@
+{
+    "rougeL": {
+        "mean_results": {
+            "official_test_score": 33.9,
+            "initial_multi_test_score": 44.6,
+            "cl_test_score": 44.9,
+            "train_runtime": 3566.6,
+            "train_epoch": 6.6,
+            "train_samples": 13411.0
+        },
+        "std_results": {
+            "official_test_score": 0.0,
+            "initial_multi_test_score": 0.0,
+            "cl_test_score": 0.0,
+            "train_runtime": 0.0,
+            "train_epoch": 0.0,
+            "train_samples": 0.0
+        }
+    },
+    "rouge1": {
+        "mean_results": {
+            "official_test_score": 34.7,
+            "initial_multi_test_score": 45.1,
+            "cl_test_score": 45.8,
+            "train_runtime": 3566.6,
+            "train_epoch": 6.6,
+            "train_samples": 13411.0
+        },
+        "std_results": {
+            "official_test_score": 0.0,
+            "initial_multi_test_score": 0.0,
+            "cl_test_score": 0.0,
+            "train_runtime": 0.0,
+            "train_epoch": 0.0,
+            "train_samples": 0.0
+        }
+    },
+    "exact_match": {
+        "mean_results": {
+            "official_test_score": 21.3,
+            "initial_multi_test_score": 34.6,
+            "cl_test_score": 30.1,
+            "train_runtime": 3566.6,
+            "train_epoch": 6.6,
+            "train_samples": 13411.0
+        },
+        "std_results": {
+            "official_test_score": 0.0,
+            "initial_multi_test_score": 0.0,
+            "cl_test_score": 0.0,
+            "train_runtime": 0.0,
+            "train_epoch": 0.0,
+            "train_samples": 0.0
+        }
+    }
+}
