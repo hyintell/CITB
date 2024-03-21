@@ -1,6 +1,6 @@
 # CITB: A Benchmark for Continual Instruction Tuning
 
-This repository includes the data and code of the paper: [CITB: A Benchmark for Continual Instruction Tuning](https://arxiv.org/abs/2310.14510) (**Findings of EMNLP 2023**) by *Zihan Zhang*, *Meng Fang*, *Ling Chen*, and *Mohammad-Reza Namazi-Rad*.
+This repository includes the data and code of the paper: [CITB: A Benchmark for Continual Instruction Tuning](https://arxiv.org/abs/2310.14510) (**Findings of EMNLP 2023**) by [*Zihan Zhang*](https://zhangzihangit.github.io/), *Meng Fang*, *Ling Chen*, and *Mohammad-Reza Namazi-Rad*.
 
 
 - [⚙️ Install Dependencies](#️-install-dependencies)
@@ -125,4 +125,4 @@ Our data and code are based on previous works:
 
 
 ## 🐞Questions?
-If you have questions, please raise an [issue](https://github.com/hyintell/RetrievalQA/issues). 
+If you have questions, please raise an [issue](https://github.com/hyintell/CITB/issues). 
