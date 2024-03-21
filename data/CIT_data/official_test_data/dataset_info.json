@@ -1,0 +1,159 @@
+{
+  "builder_name": "ni_dataset_for_cl",
+  "citation": "\n@article{wang2022benchmarking,\n  title={Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks},\n  author={Wang, Yizhong and Mishra, Swaroop and Alipoormolabashi, Pegah and Kordi, Yeganeh and others},\n  journal={arXiv preprint arXiv:2204.07705},\n  year={2022}\n}\n",
+  "config_name": "default",
+  "dataset_size": 1217526875,
+  "description": "\nNatural-Instructions v2 is a benchmark of 1,600+ diverse language tasks and their expert-written instructions. \nIt covers 70+ distinct task types, such as tagging, in-filling, and rewriting. \nThese tasks are collected with contributions of NLP practitioners in the community and \nthrough an iterative peer review process to ensure their quality. \n",
+  "download_checksums": {},
+  "download_size": 0,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Task": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Contributors": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Source": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "URL": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Categories": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Reasoning": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Definition": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Positive Examples": [
+      {
+        "input": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "output": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "explanation": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "Negative Examples": [
+      {
+        "input": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "output": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "explanation": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "Input_language": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Output_language": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Instruction_language": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Domains": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ],
+    "Instance": {
+      "id": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "input": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "output": [
+        {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      ]
+    },
+    "Instance License": [
+      {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    ]
+  },
+  "homepage": "https://github.com/allenai/natural-instructions",
+  "license": "",
+  "size_in_bytes": 1217526875,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1204524467,
+      "num_examples": 325076,
+      "shard_lengths": [
+        91000,
+        188000,
+        46076
+      ],
+      "dataset_name": "ni_dataset_for_cl"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 13002408,
+      "num_examples": 2975,
+      "dataset_name": "ni_dataset_for_cl"
+    }
+  },
+  "version": {
+    "version_str": "2.0.0",
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}

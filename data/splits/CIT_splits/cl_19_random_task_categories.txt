@@ -1,0 +1,15 @@
+Summarization
+Fill in The Blank
+Wrong Candidate Generation
+Style Transfer
+Misc.
+Program Execution
+Text Categorization
+Commonsense Classification
+Pos Tagging
+Toxic Language Detection
+Question Generation
+Coherence Classification
+Word Semantics
+Question Answering
+Sentence Ordering

@@ -1,0 +1,5 @@
+task1193_food_course_classification
+task1206_atomic_classification_isbefore
+task632_dbpedia_14_classification
+task112_asset_simple_sentence_identification
+task1321_country_continent

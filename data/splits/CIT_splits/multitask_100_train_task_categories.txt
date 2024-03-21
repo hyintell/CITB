@@ -1,0 +1,34 @@
+Text Categorization
+Story Composition
+Information Extraction
+Paraphrasing
+Question Understanding
+Irony Detection
+Program Execution
+Sentence Perturbation
+Wrong Candidate Generation
+Grammar Error Detection
+Named Entity Recognition
+Word Semantics
+Commonsense Classification
+Question Answering
+Spelling Error Detection
+Sentiment Analysis
+Misc.
+Text Quality Evaluation
+Question Generation
+Mathematics
+Toxic Language Detection
+Sentence Ordering
+Summarization
+Text Completion
+Pos Tagging
+Stereotype Detection
+Negotiation Strategy Detection
+Speaker Identification
+Linguistic Probing
+Fill in The Blank
+Spam Classification
+Sentence Composition
+Stance Detection
+Text Matching

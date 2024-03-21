@@ -1,0 +1,139 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Task": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Contributors": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Source": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "URL": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Categories": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Reasoning": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Definition": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Positive Examples": [
+      {
+        "explanation": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "input": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "output": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "Negative Examples": [
+      {
+        "explanation": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "input": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "output": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "Input_language": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Output_language": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Instruction_language": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Domains": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "Instance": {
+      "id": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "input": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "output": {
+        "feature": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      }
+    },
+    "Instance License": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
